@@ -1,0 +1,5 @@
+def exp_func():
+#this is comment
+result=2+3
+ 
+return result 

@@ -1,0 +1,1 @@
+def exp_func():result=2+3return result $
